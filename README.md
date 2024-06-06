@@ -8,13 +8,13 @@ This is a Spring Boot REST API application that provides a set of endpoints to m
 
 - RESTful endpoints for resource management
 - CRUD operations (Create, Read, Update, Delete)
-- Integrated with H2 Database for easy setup and testing
+- Integrated with Mysql Database
 - Swagger UI for API documentation and testing
 - Exception handling and validation
 
 ## Requirements
 
-- Java 11 or higher
+- Java 17
 - Maven 3.6.0 or higher
 
 ## Setup and Installation
