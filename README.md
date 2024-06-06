@@ -22,5 +22,4 @@ This is a Spring Boot REST API application that provides a set of endpoints to m
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/HasikaDilshani/HasikaDilshani-ecommerce-fullstack-app-BE.git
